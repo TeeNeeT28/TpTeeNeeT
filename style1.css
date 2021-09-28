@@ -1,0 +1,62 @@
+code
+{
+	background: #73bcec;
+	color: #fff;
+	font-family: verdana;
+	font-size: 2rem;
+	border: 2px solid #060bfa;
+	display: block;
+	text-align: center;
+}
+
+
+section
+{
+	float: left;
+	width: 30%;
+	height: 400px;
+   border: 2px solid #060bfa;
+   border-radius: 6px;
+}
+
+
+header, section
+{
+	margin: 0 1.5% 24px 1.5%
+}
+
+footer
+{
+	clear: both;
+}
+
+.c1
+{
+	color: white;
+	font-size: 1.5rem
+}
+
+.c2
+{
+	color: black;
+	font-size: 1.5rem
+}
+
+.f1
+{
+	background-image: url(https://cdn.radiofrance.fr/s3/cruiser-production/2021/02/426c0099-7c6c-4b7b-934a-b2dcc86e6380/838_gettyimages-1265067608.jpg);
+	background-size: 100% 100%;
+}
+
+.f2
+{
+	background-image: url(https://escales.ponant.com/wp-content/uploads/2020/12/plage.jpg);
+	background-size: 100% 100%;
+}
+
+body
+{
+	background-image: url(https://media.istockphoto.com/vectors/paper-layer-blue-abstract-background-use-for-banner-cover-poster-vector-id1189542390?b=1&k=20&m=1189542390&s=612x612&w=0&h=_A3DWnzO_JrT8xYBeurb-OH7-Q-np9g6WeXPFG6S9WU=);
+	background-size: 100% 100%
+}
+
